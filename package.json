@@ -1,0 +1,25 @@
+{
+  "name": "room-homepage",
+  "version": "1.0.0",
+  "description": "front-end mentor challenge",
+  "main": "index.js",
+  "scripts": {
+    "dev": "sass --watch 'src/static files':public",
+    "prod": "sass 'src/static files/base.scss' public/compiled.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samuel0102/room-homepage-front-end-mentor.git"
+  },
+  "keywords": [
+    "room",
+    "front-end",
+    "sass"
+  ],
+  "author": "Samuel Pacheco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samuel0102/room-homepage-front-end-mentor/issues"
+  },
+  "homepage": "https://github.com/Samuel0102/room-homepage-front-end-mentor#readme"
+}
