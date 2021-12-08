@@ -46,7 +46,7 @@ main{
 
     #slide-box{
         position: relative;
-        background-image: url(../../src/assets/desktop-image-hero-1.jpg);
+        background-image: url(/assets/desktop-image-hero-1.jpg);
         transition:  background 1s;
         background-size: cover;
 
@@ -154,7 +154,7 @@ main{
     }
 
     #first-image-box{
-        background: url(../../src/assets/image-about-dark.jpg) no-repeat center;
+        background: url(/assets/image-about-dark.jpg) no-repeat center;
         background-size: cover;
     }
 
@@ -179,7 +179,7 @@ main{
     }
 
     #second-image-box{
-        background: url(../../src/assets/image-about-light.jpg) no-repeat center;
+        background: url(/assets/image-about-light.jpg) no-repeat center;
         background-size: cover;
     }
 

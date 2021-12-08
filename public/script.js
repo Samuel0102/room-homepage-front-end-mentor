@@ -40,9 +40,9 @@ function changeSlide(action) {
   ];
 
   const images = [
-    "../../src/assets/desktop-image-hero-1.jpg",
-    "../../src/assets/desktop-image-hero-2.jpg",
-    "../../src/assets/desktop-image-hero-3.jpg",
+    "/assets/desktop-image-hero-1.jpg",
+    "/assets/desktop-image-hero-2.jpg",
+    "/assets/desktop-image-hero-3.jpg",
   ];
 
   let title = document.getElementById("description-title");
