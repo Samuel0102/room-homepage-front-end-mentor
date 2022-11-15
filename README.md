@@ -1,47 +1,54 @@
-### Room Homepage
-Desafio de Front End, proposto pela plataforma Front End Mentor, desenvolvido utilizando o pré-processador SASS.
-:link: https://roomhomepageapp.netlify.app/
+# Room Homepage
+Front-End Project to implementate the Front-End Mentor Challenge
 
-# Sobre o projeto
+## About the project
 
-## Introdução
-Descricao mais detalhada
-Desafio de Front End, implementado com o uso de JS e SASS tem como função ser um landing page de uma ficticia loja de móveis. Desenvolvido com o propósito de agregar nas habilidades em Javascript e para conhecimento mais avançado de pré-processors.
+### Final Visual
 
-## Especificações
-*Autor*: Samuel Pacheco Ferreira    
-*Descrição*: Projeto Front End com SASS  
-*Andamento*: Finalizado      
-*Terá atualizações*:  Não        
+#### Desktop
 
-## Tecnologias
-*Tecnologias utilizadas*: HTML, CSS, JS e SASS      
-*IDE*: Visual Studio Code.      
-*Estruturação*: HTML   
+![image](https://user-images.githubusercontent.com/61472839/201792952-b1e64f9a-367e-4e61-86e4-e8562897eafe.png)
 
-## Funcionalidades
-| Funcionalidade | Situação |
+
+#### Mobile
+
+![image](https://user-images.githubusercontent.com/61472839/201793132-5d54d1cb-e367-4043-9324-98a911a900cb.png)
+
+
+### Introduction
+Front-End Project developed with JS and SASS pre-processor, with the main focus to be a modern and interative landing page. Following the challenge requirements, the website is fully responsive and has a beautiful carousel of images and texts.
+
+
+### Especifications
+*Author*: Samuel Pacheco Ferreira    
+*Description*:  Front-End Project to implementate the Front-End Mentor Challenge  
+*Stage*: Finished       
+*Will be updated?*: No          
+
+### Technologies
+*Technologies*: SASS        
+*IDE*: Visual Studio Code        
+*Main Structure*: HTML5     
+
+### Functionalities
+| Functionality | Stage |
 | ----------- | ----------- |
-| Troca de imagem e descrição | :heavy_check_mark: |
+| Fluid Carousel |:heavy_check_mark: |
 
-:clock130: - Em desenvolvimento   :heavy_check_mark: - Finalizado
+:clock130: - In Development   :heavy_check_mark: - Finished
 
-## Visual final
-<a href="https://ibb.co/cLS7PsP"><img src="https://i.ibb.co/4dn5c0c/Screenshotromm.png" alt="Screenshotromm" border="0"></a>
+### Requirements to coding
+* Compile the .scss file to get the final .css 
 
-## Requisitos para manipular código
-* Necessário fazer a instalação do pré-processor SASS, utilizando o gerenciador de pacotes JS, o NPM
+### System Execution
+1. After compiled the .scss file, just open the "index.html" file in any browser
 
-## Execução do sistema
-1. Para tal, necessita-se compilar o arquivo .scss em css. Isso se faz utilizando o comando `sass './src/static files/CSS/base.scss' './public/final.css'`, após instalação do SASS
+### Documentation or other files
+:link: 
 
-## Documentações do sistema e outros arquivos
-Nenhum item complementar 
-
-## Origem do projeto
-O projeto teve origem no desafio proposto pela Front End Mentor.
+### Project Origin
+* Front-End Mentor Challenge
 :link: https://www.frontendmentor.io/challenges/room-homepage-BtdBY_ENq
 
-## Principais dificuldades
-* Uso mais complexo de SASS 
-
+### Main Challenges of the project
+* First using of SASS 
